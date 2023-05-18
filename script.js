@@ -4,7 +4,8 @@ const explorerUrlMainnet = "https://explorer.bitcoinunlimited.info";
 const explorerUrlChipnet = "https://chipnet.chaingraph.cash";
 const trustedTokenLists = [
   "https://otr.cash/.well-known/bitcoin-cash-metadata-registry.json",
-  "https://raw.githubusercontent.com/mr-zwets/example_bcmr/main/example_bcmr.json"
+  "https://raw.githubusercontent.com/mr-zwets/example_bcmr/main/example_bcmr.json",
+  "https://mazetoken.github.io/.well-known/bitcoin-cash-metadata-registry.json"
 ];
 const nameWallet = "mywallet";
 
