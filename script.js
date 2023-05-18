@@ -5,7 +5,7 @@ const explorerUrlChipnet = "https://chipnet.chaingraph.cash";
 const trustedTokenLists = [
   "https://otr.cash/.well-known/bitcoin-cash-metadata-registry.json",
   "https://raw.githubusercontent.com/mr-zwets/example_bcmr/main/example_bcmr.json",
-  "https://bafkreiejafiz23ewtyh6m3dpincmxouohdcimrd33abacrq3h2pacewwjm.ipfs.dweb.link"
+  "https://mazetoken.github.io/.well-known/bitcoin-cash-metadata-registry.json"
 ];
 const nameWallet = "mywallet";
 
